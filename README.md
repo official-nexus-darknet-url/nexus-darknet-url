@@ -45,4 +45,6 @@ To successfully navigate Nexus Darknet, it is recommended that you implement the
 
 This guide is exclusively intended for educational purposes. The content provided aims to increase understanding of darknet operations. We do not endorse or promote any illegal activities. Always comply with the applicable laws and regulations in your jurisdiction.
 
-Update:  26.06.2025 09:07:52 Fixed broken link, now accessible and live
+
+
+Update:  04.07.2025 04:22 Link is now functioning and operational

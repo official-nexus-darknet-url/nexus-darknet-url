@@ -47,4 +47,6 @@ This guide is exclusively intended for educational purposes. The content provide
 
 
 
-Update:  04.07.2025 04:22 Link is now functioning and operational
+
+
+Update: Email links
